@@ -1,0 +1,1 @@
+Official source code 1.0.2.2 driver from [Edimax](https://www.edimax.com/edimax/download/download/data/edimax/global/download/for_home/wireless_adapters/wireless_adapters_ac1200_dual-band/ew-7822utc) updated to prevent critical compilation error with linux kernel >= 5.12
